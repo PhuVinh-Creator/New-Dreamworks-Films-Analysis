@@ -84,4 +84,4 @@ Explores the relationship between critical scores (Metacritic, Rotten Tomatoes) 
 
 ## Author ✍️
 
-**Steven Nguyen** — Temple University
+**Steven Nguyen**
