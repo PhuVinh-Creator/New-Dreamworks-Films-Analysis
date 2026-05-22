@@ -1,6 +1,9 @@
 # New-Dreamworks-Films-Analysis
 Films Performance Evaluation - Power Bi dashboards
 
+<img width="1284" height="718" alt="Screenshot 2026-05-11 222156" src="https://github.com/user-attachments/assets/aee263ab-306f-418a-ba58-3a454a0c8259" />
+
+
 ## Overview 📋
 
 This project presents an interactive business intelligence dashboard analyzing the **box office performance** of DreamWorks Animation films. The dashboard spans two pages — a **Box Office Performance** view and a **Critical Score & Relationship Analysis** view — giving a full picture of how DreamWorks films performed commercially and critically.
