@@ -1,8 +1,8 @@
 # New-Dreamworks-Films-Analysis
 Films Performance Evaluation - Power Bi dashboards
 
-<img width="1284" height="718" alt="Screenshot 2026-05-11 222156" src="https://github.com/user-attachments/assets/aee263ab-306f-418a-ba58-3a454a0c8259" />
-
+<img width="1281" height="715" alt="Screenshot 2026-05-11 222140" src="https://github.com/user-attachments/assets/b1740a9a-204f-4b0f-996e-f0a19f454276" />
+<img width="1284" height="718" alt="Screenshot 2026-05-11 222156" src="https://github.com/user-attachments/assets/6eafe4a7-2a00-44bc-84dc-497fb6fd2f49" />
 
 ## Overview 📋
 
